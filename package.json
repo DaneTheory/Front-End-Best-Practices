@@ -1,0 +1,14 @@
+{
+  "name": "blue-apron-challenge",
+  "version": "1.0.0",
+  "description": "Blue Apron's front end challenge",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./server/server.js"
+  },
+  "author": "Branden Dane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
